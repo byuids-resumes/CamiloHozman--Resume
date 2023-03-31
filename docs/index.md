@@ -1,86 +1,89 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Camilo Hozman
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Brigham Young - Idaho 
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+
+<div id="385 450 0380 "> 
+<a href=>hozmancj@protonmail.com </a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+| <a href="https://www.linkedin.com/in/camilo-hozman/">LinkedIn</a>
+| <a href="https://github.com/hozmancj7">GitHub</a>
 </div>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`2018-2023`
+__Brigham Young University Idaho__, Rexburg, ID
+Bachelor of Science: Data Science - Business Analytics Minor
 
-- Full academic scholarship with 4.0 GPA
+<li>Relevant courses:
+<li>Tableau & Power-BI (Data wrangling & Building Dashboards)
+<li>Business Intel & Analytics (Excel/DOMO)
+<li>Parametric & Non-Parametric Hypothesis Testing (RStudio)
+<li>Data Base Design & Development MySQL (ERD's, Merge Data, Joins)
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+## Applied Experience
+`Jan 2023 - Present`
+__Price Analyst__
+Stout Building Contractors
+<li>Gathered and analyzed data to estimate the amount of money, time, and labor required to complete projects
+<li>Prepared and presented cost reports to clients using excel to calculate cost for projects between 1-5 million dollars 
+<li>Trained and lead a team of 5 people to collect data from sub-contractors and accurately request cost bids
 
-- 4.0 Major GPA
+`Jul 2022 - Dec 2022`
+__Business Intel and Analytics Teacher Assistant__
+Brigham Young University-Idaho
+<li>Assessed 100 + weekly assignments for correctness. Such as projects, forums, or quizzes
+<li>Instruct how to record Macros, develop Dashboards, gather, mine, and graphing data
+<li>Solved quantitative & qualitative questions by cleansing, sourcing, and clustering data
 
-
-## Related Experience
+`Apr 2022 - Jul 2022`
+__Database Design & Development Teacher Assistant__
+Brigham Young University-Idaho
+<li>Checked for understanding of basic DDL, DLM, DCL, and TCL SQL commands
+<li>Reviewed weekly quizzes and projects on correct use of Inner, Right, and Left joins to clean and join data
+<li>Oversaw design & model of Databases by convert & contrast of SQL dialects
 
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`Jul 2022 - Dec 2022`
+Category Partners LLC
+<li>Design and provide PowerPoints & Dashboards in Tableau for Walmart, Kroger, USHBC, IPC
+<li>Leverage Alteryx software to extract, transform, and load NielsenIQ data in preparation to be used in Tableau
+<li>Build weekly dashboards to explain consumer behavior, inflation, and trends for articles, magazines, and reports 
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+### Projects
 
-### Data Science Lead
+__RStudio (ggplot 2, tidyverse)__	
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+<li> Analyzed data Gun Deaths in the USA. Targeting high audiences involved in gun deaths for marketing campaigns
+<li> Wrangled a USA flights dataset of 2013. Found airlines and airports reporting highest and lowest delays 
+<li> Reviewed student housing at BYU-Idaho. Analyzed price, walking distance, and capacity 
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+### Volunteer Experience
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`Nov 2014 - Dec 2016`
+__Full-time Volunteer Representative__
+The Church of Jesus Christ of Latter-day Saints	Farmington, NM
+<li>Met people daily in Arizona, Colorado, Utah, & New Mexico by finding common ground and providing service
+<li>Supervised over 30+ volunteers by giving weekly trainings on resource management and time management, 
+<li>Catering management monthly to assess problems and come up with action plans to help volunteers be motivated
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+## Skills
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
+<li>Python 
+<li>RStudio
+<li>SQL
+<li>ableau
+<li>PowerBI
+<li>Alteryx
+<li>Domo
+<li>Excel
+<li>PowerPoint
 
 <!-- ### Footer
 
