@@ -2,7 +2,8 @@
 layout: cv
 title: Camilo Hozman
 ---
-# Brigham Young - Idaho 
+# Camilo Hozman's Resume
+## Brigham Young - Idaho 
 
 
 <div id="385 450 0380 "> 
